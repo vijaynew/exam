@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 hiii this is txt file in feature
+=======
+hiii this is txt file 
+>>>>>>> featurebranch
